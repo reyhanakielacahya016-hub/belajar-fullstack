@@ -29,11 +29,18 @@ mengulang konteks; semuanya ada di file ini dan di `PROGRES.md`.
 4. Tantangan 15 menit: hint bertahap kalau buntu.
 5. Penutup 5 menit: mereka menjelaskan ulang; nilai dan koreksi.
 
-## Tugas Claude di akhir setiap sesi
+## Menyimpan progres (wajib, tanpa diminta)
 
-Perbarui `PROGRES.md`: centang topik yang lulus, isi "Sesi terakhir", "Masih bingung",
-dan tambah baris log. Lalu commit dan push dengan pesan singkat, misalnya
-`progres: fase 0 cara kerja web`. Ini satu-satunya cara konteks bertahan antar sesi.
+Claude tidak tahu kapan mahasiswa berhenti, jadi progres disimpan bertahap:
+
+1. **Setiap checkpoint**: begitu tantangan dinilai, kuis selesai, atau topik dinyatakan lulus,
+   langsung perbarui `PROGRES.md` (centang topik, "Sesi terakhir", "Masih bingung", baris log)
+   lalu commit dan push. Jangan menunggu akhir sesi.
+2. **Saat mahasiswa pamit** ("selesai", "cukup dulu", "sampai jumpa", dan sejenisnya):
+   simpan sisa progres, push, lalu beri ringkasan 2–3 baris + topik sesi berikutnya.
+
+Pesan commit singkat, misalnya `progres: fase 0 cara kerja web`. Ini satu-satunya cara
+konteks bertahan antar sesi.
 
 ## Roadmap (satu jalur)
 
