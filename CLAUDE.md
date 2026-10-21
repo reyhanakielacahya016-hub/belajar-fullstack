@@ -50,6 +50,10 @@ Isinya: alur/diagram, tabel istilah + analogi depot air, contoh kode inti, bagia
 dari kesalahan mahasiswa sendiri, dan cara mempraktikkannya. Daftarkan di `cheatsheet/README.md`,
 lalu commit bersama pembaruan `PROGRES.md`.
 
+Setelah membuat cheat sheet, tampilkan langsung di panel samping dengan SendUserFile
+(`display: "render"`). Lakukan juga setiap kali mahasiswa meminta cheat sheet sebuah topik,
+dan di awal sesi kirim cheat sheet topik sebelumnya sebagai bahan pemanasan.
+
 ## Roadmap (satu jalur)
 
 | Fase | Topik | Estimasi |
