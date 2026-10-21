@@ -3,11 +3,14 @@
 ## Posisi sekarang
 
 - **Fase**: 0 — Fondasi
-- **Sesi terakhir**: 2026-10-18 · Cara kerja web (browser, server, URL, DNS, HTTP request & response,
-  method, status code; latihan tab Network di DevTools)
-- **Status sesi terakhir**: materi sudah diberikan; tantangan 1–4 dan penjelasan ulang **belum dikirim**.
-  Sesi berikutnya: mulai dengan menagih jawaban tantangan + penjelasan ulang, baru lanjut topik.
-- **Masih bingung**: (belum ada catatan)
+- **Sesi terakhir**: 2026-10-21 · Cara kerja web, sesi 2 (pemanasan + pembahasan tantangan DevTools)
+- **Status sesi terakhir**: pemanasan 2/3 benar. Tantangan DevTools tidak dikerjakan sendiri; atas
+  permintaan mahasiswa, jawabannya dijelaskan langsung. **Penjelasan ulang belum dikirim**, jadi topik
+  "Cara kerja web" belum dicentang. Sesi berikutnya: tagih penjelasan ulang, ulangi soal method HTTP
+  (POST vs GET), lalu lanjut ke VS Code.
+- **Masih bingung**: method HTTP, tertukar GET dengan POST untuk mengirim pesanan baru.
+  Catatan tutor: mahasiswa memilih langsung diberi jawaban tantangan; tetap sarankan praktik DevTools
+  sendiri sekali agar tidak hanya hafal.
 
 ## Checklist
 
@@ -106,4 +109,5 @@
 
 | Tanggal | Topik | Hasil | Skor kuis | Masih bingung |
 |---|---|---|---|---|
+| 2026-10-21 | Cara kerja web (sesi 2) | Pemanasan dinilai, tantangan dibahas oleh tutor | 2/3 | GET vs POST |
 | 2026-10-18 | Cara kerja web | Materi diberikan, tantangan belum dikerjakan | – | – |
