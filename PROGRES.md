@@ -3,13 +3,13 @@
 ## Posisi sekarang
 
 - **Fase**: 0 — Fondasi
-- **Sesi terakhir**: 2026-10-21 · Cara kerja web, sesi 2 → **lulus putaran 1**
-- **Status sesi terakhir**: penjelasan ulang diterima (DNS → request → response). Masih kurang dua
-  bagian: browser membaca HTML lalu mengirim request tambahan (CSS/JS/gambar), dan render halaman.
-  Sesi berikutnya: pemanasan GET vs POST, lalu topik VS Code.
-- **Masih bingung**: method HTTP, tertukar GET dengan POST untuk mengirim pesanan baru.
+- **Sesi terakhir**: 2026-10-21 · Cek ulang GET vs POST → benar. Mulai topik VS Code (materi diberikan).
+- **Status sesi terakhir**: topik VS Code sedang berjalan; tantangan VS Code belum dikirim.
+  Sesi berikutnya: tagih tantangan VS Code (install, ekstensi, file `halo.html` dibuka di browser,
+  4 shortcut), lalu penjelasan ulang.
+- **Masih bingung**: (GET vs POST sudah dikuasai, 2026-10-21)
   Catatan tutor: mahasiswa lebih suka jawaban singkat dan langsung diberi pembahasan tantangan;
-  tetap sarankan praktik DevTools sendiri sekali.
+  tetap sarankan praktik sendiri.
 
 ## Checklist
 
@@ -108,5 +108,6 @@
 
 | Tanggal | Topik | Hasil | Skor kuis | Masih bingung |
 |---|---|---|---|---|
+| 2026-10-21 | Cek GET vs POST + mulai VS Code | GET/POST benar, materi VS Code diberikan | 1/1 | – |
 | 2026-10-21 | Cara kerja web (sesi 2) | Pemanasan dinilai, tantangan dibahas tutor, penjelasan ulang diterima → lulus | 2/3 | GET vs POST |
 | 2026-10-18 | Cara kerja web | Materi diberikan, tantangan belum dikerjakan | – | – |
