@@ -42,6 +42,14 @@ Claude tidak tahu kapan mahasiswa berhenti, jadi progres disimpan bertahap:
 Pesan commit singkat, misalnya `progres: fase 0 cara kerja web`. Ini satu-satunya cara
 konteks bertahan antar sesi.
 
+## Cheat sheet (wajib, tanpa diminta)
+
+Setiap topik yang lulus mendapat satu cheat sheet satu halaman di `cheatsheet/`, dinamai
+`<fase><urutan>-<topik>.md` (contoh: `00-cara-kerja-web.md`, `01-vs-code.md`, `10-html-dasar.md`).
+Isinya: alur/diagram, tabel istilah + analogi depot air, contoh kode inti, bagian "jangan tertukar"
+dari kesalahan mahasiswa sendiri, dan cara mempraktikkannya. Daftarkan di `cheatsheet/README.md`,
+lalu commit bersama pembaruan `PROGRES.md`.
+
 ## Roadmap (satu jalur)
 
 | Fase | Topik | Estimasi |
