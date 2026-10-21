@@ -3,19 +3,18 @@
 ## Posisi sekarang
 
 - **Fase**: 0 — Fondasi
-- **Sesi terakhir**: 2026-10-21 · Cara kerja web, sesi 2 (pemanasan + pembahasan tantangan DevTools)
-- **Status sesi terakhir**: pemanasan 2/3 benar. Tantangan DevTools tidak dikerjakan sendiri; atas
-  permintaan mahasiswa, jawabannya dijelaskan langsung. **Penjelasan ulang belum dikirim**, jadi topik
-  "Cara kerja web" belum dicentang. Sesi berikutnya: tagih penjelasan ulang, ulangi soal method HTTP
-  (POST vs GET), lalu lanjut ke VS Code.
+- **Sesi terakhir**: 2026-10-21 · Cara kerja web, sesi 2 → **lulus putaran 1**
+- **Status sesi terakhir**: penjelasan ulang diterima (DNS → request → response). Masih kurang dua
+  bagian: browser membaca HTML lalu mengirim request tambahan (CSS/JS/gambar), dan render halaman.
+  Sesi berikutnya: pemanasan GET vs POST, lalu topik VS Code.
 - **Masih bingung**: method HTTP, tertukar GET dengan POST untuk mengirim pesanan baru.
-  Catatan tutor: mahasiswa memilih langsung diberi jawaban tantangan; tetap sarankan praktik DevTools
-  sendiri sekali agar tidak hanya hafal.
+  Catatan tutor: mahasiswa lebih suka jawaban singkat dan langsung diberi pembahasan tantangan;
+  tetap sarankan praktik DevTools sendiri sekali.
 
 ## Checklist
 
 ### Fase 0 — Fondasi
-- [ ] Cara kerja web: browser, server, URL, DNS, HTTP request & response
+- [x] Cara kerja web: browser, server, URL, DNS, HTTP request & response
 - [ ] Install VS Code + ekstensi dasar, kenal shortcut penting
 - [ ] Terminal dasar: cd, ls, mkdir, membuat & memindah file
 - [ ] Git: init, add, commit, log, status
@@ -109,5 +108,5 @@
 
 | Tanggal | Topik | Hasil | Skor kuis | Masih bingung |
 |---|---|---|---|---|
-| 2026-10-21 | Cara kerja web (sesi 2) | Pemanasan dinilai, tantangan dibahas oleh tutor | 2/3 | GET vs POST |
+| 2026-10-21 | Cara kerja web (sesi 2) | Pemanasan dinilai, tantangan dibahas tutor, penjelasan ulang diterima → lulus | 2/3 | GET vs POST |
 | 2026-10-18 | Cara kerja web | Materi diberikan, tantangan belum dikerjakan | – | – |
